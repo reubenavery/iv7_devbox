@@ -1,0 +1,30 @@
+{
+  "description": "a module to add systemic bashrc changes",
+  "project_page": "UNKNOWN",
+  "checksums": {
+    "spec/classes/rhel_spec.rb": "2e3610aecb5cd7fffedd973cff7a693e",
+    "spec/classes/promptcolor_spec.rb": "84265a17ff5d0ffa055da8a7a3e43d0a",
+    "manifests/rhel.pp": "54126ae9e11612155dafe3337765dec1",
+    "Modulefile": "3e4b25431484ef54532fc80fdf895ebf",
+    "README.md": "1167b24041e90a07fbe76ff8c2d5ce97",
+    "spec/classes/bashrc_spec.rb": "5d9ab97380297024bb3baa9a50f3bca2",
+    "manifests/promptcolor.pp": "caffdc066c715c404b67b8748c057027",
+    "spec/spec_helper.rb": "d8f2ea158f143a7fd327990ceccdd800",
+    "manifests/params.pp": "74524c9309be3d949e27c9c593414e8f",
+    "templates/promptcolor.sh.erb": "98c61e5ffe08ebc0c0e22a27fa005501",
+    "manifests/init.pp": "151bc24a3329f0f031aec2167af8488b",
+    "Rakefile": "ba6b4fe4f6bbc7ad22434e3175525f24"
+  },
+  "summary": "UNKNOWN",
+  "source": "UNKNOWN",
+  "dependencies": [
+
+  ],
+  "author": "wolfspyre",
+  "version": "0.0.5",
+  "name": "wolfspyre-bashrc",
+  "types": [
+
+  ],
+  "license": "Apache License, Version 2.0"
+}
